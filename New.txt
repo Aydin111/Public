@@ -1,21 +1,24 @@
 GIT
+git config Чglobal user.name "John Doe"
+git config Чglobal user.email johndoe@example.com (настроить гит)
+git rm ... -remove file
 cd "folder" перейти в нужную папку
 cd.. вернутьс€ в исходную папку
-dir посмотреть содержимое папки  (ls дл€ IOS)
+dir посмотреть содержимое папки (ls дл€ IOS)
 git clone "link" скопировать репозиторий с гитхаба
-git add "..." добавить папку (git add -A залить все файлы)
-git status  посмотреть какие изменени€ были
+git add "..." добавить элемент (git add -A залить все файлы)
+git add * добавить папку
+git status посмотреть какие изменени€ были
 git commit -m "указать какие изменени€"(например "add index.html")
-git push закидывает файл в репозиторий гитхаб
+git push -u закидывает файл/папку в репозиторий
 git pull скачать из репозитори€
 
 
 Other useful combinations
 md "name" - создать папку
-rd "name" - удалить папку/файл
+rd "name" - удалить папку
 copy con "name.exe(любой формат)" создать файл (или nul>"name.exe)
-del "name" удалить файл или папку(кавычки несесари)
-
+del "name" удалить файл или папку(кавычки несесари) 
 
 
 
