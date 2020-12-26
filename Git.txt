@@ -1,9 +1,10 @@
 GIT
-git config Чglobal user.name "John Doe"
-git config Чglobal user.email johndoe@example.com (настроить гит)
+git config Чglobal user.name "Aydin Baydarov"
+git config Чglobal user.email a.baydarov@adguard.com 
+(настроить гит)
 git rm ... -remove file
 cd "folder" перейти в нужную папку
-cd.. вернутьс€ в исходную папку
+cd .. вернутьс€ в исходную папку
 dir посмотреть содержимое папки (ls дл€ IOS)
 git clone "link" скопировать репозиторий с гитхаба
 git add "..." добавить элемент (git add -A залить все файлы)
